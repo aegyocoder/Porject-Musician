@@ -1,0 +1,9 @@
+﻿LOG IN:
+
+Password: Pa55w@rd
+
+Users: admin@outlook.com
+		security@outlook.com
+		supervisor@outlook.com
+		staff@outlook.com
+		user@outlook.com

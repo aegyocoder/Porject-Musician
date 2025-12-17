@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juand\\OneDrive - NC\\MVC-Music-DavidCaballero\\MVC-Music-DavidCaballero\\MVC_Music_Solution_Part 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE01743-42C6-4FB6-BE89-4C73604ED216}|MVC_Music\\MVC_Music.csproj|c:\\users\\juand\\onedrive - nc\\mvc-music-davidcaballero\\mvc-music-davidcaballero\\mvc_music_solution_part 3\\mvc_music\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0BE01743-42C6-4FB6-BE89-4C73604ED216}|MVC_Music\\MVC_Music.csproj|solutionrelative:mvc_music\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2066902658:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file.txt",
+              "DocumentMoniker": "C:\\Users\\juand\\OneDrive - NC\\MVC-Music-DavidCaballero\\MVC-Music-DavidCaballero\\MVC_Music_Solution_Part 3\\MVC_Music\\file.txt",
+              "RelativeDocumentMoniker": "MVC_Music\\file.txt",
+              "ToolTip": "C:\\Users\\juand\\OneDrive - NC\\MVC-Music-DavidCaballero\\MVC-Music-DavidCaballero\\MVC_Music_Solution_Part 3\\MVC_Music\\file.txt",
+              "RelativeToolTip": "MVC_Music\\file.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-09T18:33:34.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

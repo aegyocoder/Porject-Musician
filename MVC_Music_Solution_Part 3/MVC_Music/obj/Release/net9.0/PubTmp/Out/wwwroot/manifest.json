@@ -1,0 +1,52 @@
+{
+    "name": "Music Team",
+    "short_name": "Mus. Team",
+    "description": "David 'made' this",
+    "icons": [
+        {
+            "src": "/images/logo192.png",
+            "sizes": "192x192"
+
+        },
+        {
+            "src": "/images/logo512.png",
+            "sizes": "512x512"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/images/background1000.png",
+            "sizes": "1000x500",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Background index"
+        },
+
+        {
+            "src": "/images/background1000.png",
+            "sizes": "1000x500",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Data Maintenance"
+        },
+
+        {
+            "src": "/images/logo640.png",
+            "sizes": "640x320",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Create Patient"
+        },
+        {
+            "src": "/images/logo640.jpg",
+            "sizes": "640x320",
+            "type": "image/jpeg",
+            "form_factor": "narrow",
+            "label": "Data Maintenance"
+        }
+
+    ],
+    "display": "standalone",
+    "start_url": "/",
+    "id": "/"
+}
